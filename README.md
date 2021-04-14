@@ -1,2 +1,0 @@
-# SistemPakar
-Tugas Sistem Pakar
