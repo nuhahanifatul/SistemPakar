@@ -1,4 +1,4 @@
-#Masalah mesin cuci: Fuzzy Logic dengan modul skfuzzy
+# Masalah mesin cuci: Fuzzy Logic dengan modul skfuzzy
 
 Sistem control fuzzy memodelkan waktu yang dibutuhkan mesin cuci untuk mencuci pakaian sesuai dengan jenis pakaian, kekotoran, berat pakaian dan level kekotoran. Sehingga kita perlu mempertimbangkan jenis pakaian, kotoran, berat pakaian dan level kekotoran, nilai antara 0 sampai 10. Hal ini digunakan untuk mengetahui berapa lama waktu yang dibutuhkan mesin cuci untuk mencuci pakaian antara 0 sampai 20 menit.
 
